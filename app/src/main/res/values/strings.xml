@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RecyclerViewBase</string>
+    <string name="id">id:</string>
+    <string name="name">name:</string>
+    <string name="data">data:</string>
+    <string name="simple_recycler">Simple Recycler</string>
+    <string name="rx_recycler">Rx recycler</string>
+    <string name="composite_recycler">composite recycler</string>
+</resources>
